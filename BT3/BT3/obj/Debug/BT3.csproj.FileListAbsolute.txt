@@ -1,0 +1,9 @@
+E:\LTUD\BT3\BT3\bin\Debug\BT3.exe
+E:\LTUD\BT3\BT3\bin\Debug\BT3.pdb
+E:\LTUD\BT3\BT3\obj\Debug\BT3.csprojAssemblyReference.cache
+E:\LTUD\BT3\BT3\obj\Debug\BT3.frmMainBT3.resources
+E:\LTUD\BT3\BT3\obj\Debug\BT3.Properties.Resources.resources
+E:\LTUD\BT3\BT3\obj\Debug\BT3.csproj.GenerateResource.cache
+E:\LTUD\BT3\BT3\obj\Debug\BT3.csproj.CoreCompileInputs.cache
+E:\LTUD\BT3\BT3\obj\Debug\BT3.exe
+E:\LTUD\BT3\BT3\obj\Debug\BT3.pdb

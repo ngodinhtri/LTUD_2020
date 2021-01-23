@@ -1,0 +1,2 @@
+D:\LTUD\MoHinh3Lop\DAL_Demo\obj\Debug\DAL_Demo.csprojAssemblyReference.cache
+D:\LTUD\MoHinh3Lop\DAL_Demo\obj\Debug\DAL_Demo.csproj.CoreCompileInputs.cache

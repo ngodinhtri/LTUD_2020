@@ -1,0 +1,9 @@
+E:\LTUD\BT4\BT4\bin\Debug\BT4.exe
+E:\LTUD\BT4\BT4\bin\Debug\BT4.pdb
+E:\LTUD\BT4\BT4\obj\Debug\BT4.csprojAssemblyReference.cache
+E:\LTUD\BT4\BT4\obj\Debug\BT4.Form1.resources
+E:\LTUD\BT4\BT4\obj\Debug\BT4.Properties.Resources.resources
+E:\LTUD\BT4\BT4\obj\Debug\BT4.csproj.GenerateResource.cache
+E:\LTUD\BT4\BT4\obj\Debug\BT4.csproj.CoreCompileInputs.cache
+E:\LTUD\BT4\BT4\obj\Debug\BT4.exe
+E:\LTUD\BT4\BT4\obj\Debug\BT4.pdb

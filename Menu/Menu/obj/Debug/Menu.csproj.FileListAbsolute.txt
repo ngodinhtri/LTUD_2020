@@ -1,0 +1,9 @@
+E:\LTUD\Menu\Menu\obj\Debug\Menu.frmMain.resources
+E:\LTUD\Menu\Menu\obj\Debug\Menu.Properties.Resources.resources
+E:\LTUD\Menu\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+E:\LTUD\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+E:\LTUD\Menu\Menu\bin\Debug\Menu.exe
+E:\LTUD\Menu\Menu\bin\Debug\Menu.pdb
+E:\LTUD\Menu\Menu\obj\Debug\Menu.exe
+E:\LTUD\Menu\Menu\obj\Debug\Menu.pdb
+E:\LTUD\Menu\Menu\obj\Debug\Menu.FormBT1.resources

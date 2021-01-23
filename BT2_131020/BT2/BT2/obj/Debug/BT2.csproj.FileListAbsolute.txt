@@ -1,0 +1,10 @@
+E:\LTUD\BT2_131020\BT2\BT2\bin\Debug\BT2.exe.config
+E:\LTUD\BT2_131020\BT2\BT2\bin\Debug\BT2.exe
+E:\LTUD\BT2_131020\BT2\BT2\bin\Debug\BT2.pdb
+E:\LTUD\BT2_131020\BT2\BT2\obj\Debug\BT2.csprojAssemblyReference.cache
+E:\LTUD\BT2_131020\BT2\BT2\obj\Debug\BT2.frmMain.resources
+E:\LTUD\BT2_131020\BT2\BT2\obj\Debug\BT2.Properties.Resources.resources
+E:\LTUD\BT2_131020\BT2\BT2\obj\Debug\BT2.csproj.GenerateResource.cache
+E:\LTUD\BT2_131020\BT2\BT2\obj\Debug\BT2.csproj.CoreCompileInputs.cache
+E:\LTUD\BT2_131020\BT2\BT2\obj\Debug\BT2.exe
+E:\LTUD\BT2_131020\BT2\BT2\obj\Debug\BT2.pdb

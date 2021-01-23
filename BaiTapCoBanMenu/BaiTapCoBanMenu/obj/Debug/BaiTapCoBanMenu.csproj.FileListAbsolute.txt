@@ -1,0 +1,16 @@
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\bin\Debug\BaiTapCoBanMenu.exe
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\bin\Debug\BaiTapCoBanMenu.pdb
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.csprojAssemblyReference.cache
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.frmBT1.resources
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.Properties.Resources.resources
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.csproj.GenerateResource.cache
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.csproj.CoreCompileInputs.cache
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.exe
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.pdb
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.frmMainDSBT.resources
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.frmBT3.resources
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.frmBT2.resources
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.frmBT4.resources
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.frmBT8.resources
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.frmBT10.resources
+C:\Users\ngodi\OneDrive\Desktop\BaiTapCoBanMenu\BaiTapCoBanMenu\obj\Debug\BaiTapCoBanMenu.frmBT9.resources

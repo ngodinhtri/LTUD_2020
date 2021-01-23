@@ -1,0 +1,13 @@
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\bin\Debug\BUS_Demo.dll
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\bin\Debug\BUS_Demo.pdb
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\bin\Debug\ET.dll
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\bin\Debug\ET.pdb
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.csprojAssemblyReference.cache
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.csproj.CoreCompileInputs.cache
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.csproj.CopyComplete
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.dll
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.pdb
+D:\LTUD\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.csprojAssemblyReference.cache
+D:\LTUD\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.csproj.CoreCompileInputs.cache
+D:\LTUD\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.dll
+D:\LTUD\MoHinh3Lop\BUS_Demo\obj\Debug\BUS_Demo.pdb

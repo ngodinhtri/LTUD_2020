@@ -1,0 +1,12 @@
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\ET\bin\Debug\ET.dll
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\ET\bin\Debug\ET.pdb
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\ET\obj\Debug\ET.csprojAssemblyReference.cache
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\ET\obj\Debug\ET.dll
+C:\Users\ngodi\OneDrive\Desktop\MoHinh3Lop\ET\obj\Debug\ET.pdb
+D:\LTUD\MoHinh3Lop\ET\bin\Debug\ET.dll
+D:\LTUD\MoHinh3Lop\ET\bin\Debug\ET.pdb
+D:\LTUD\MoHinh3Lop\ET\obj\Debug\ET.csprojAssemblyReference.cache
+D:\LTUD\MoHinh3Lop\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\LTUD\MoHinh3Lop\ET\obj\Debug\ET.dll
+D:\LTUD\MoHinh3Lop\ET\obj\Debug\ET.pdb

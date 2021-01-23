@@ -1,0 +1,9 @@
+D:\Code\BT\BT\bin\Debug\BT.exe
+D:\Code\BT\BT\bin\Debug\BT.pdb
+D:\Code\BT\BT\obj\Debug\BT.csprojResolveAssemblyReference.cache
+D:\Code\BT\BT\obj\Debug\BT.frmBTTH2.resources
+D:\Code\BT\BT\obj\Debug\BT.Properties.Resources.resources
+D:\Code\BT\BT\obj\Debug\BT.csproj.GenerateResource.Cache
+D:\Code\BT\BT\obj\Debug\BT.exe
+D:\Code\BT\BT\obj\Debug\BT.pdb
+D:\Code\BT\BT\obj\Debug\BT.frmBT1.resources

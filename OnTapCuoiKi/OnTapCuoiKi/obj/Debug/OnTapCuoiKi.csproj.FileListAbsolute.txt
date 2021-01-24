@@ -1,0 +1,11 @@
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\bin\Debug\OnTapCuoiKi.exe
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\bin\Debug\OnTapCuoiKi.pdb
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.csprojAssemblyReference.cache
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.frmKhoa.resources
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.frmMain.resources
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.Properties.Resources.resources
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.csproj.GenerateResource.cache
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.csproj.CoreCompileInputs.cache
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.exe
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.pdb
+D:\Workspace\LTUD\OnTapCuoiKi\OnTapCuoiKi\obj\Debug\OnTapCuoiKi.frmSV.resources

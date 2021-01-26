@@ -37,136 +37,67 @@ go
 /* TẠO STOREDPROCEDURE*/
 --/ Bảng Khoa /--
 --Thêm
-create procedure sp_themKhoa(@maKhoa char(6), @tenKhoa nvarchar(30))
-as
-	insert into KHOA(MAKHOA, TENKHOA) values (@maKhoa, @tenKhoa)
-go
---xóa
-create procedure sp_xoaKhoa(@makhoa char(6))
-as
-	begin
-		delete from KHOA where MAKHOA = @makhoa;
-	end
-go
---Sửa
-create procedure sp_suaKhoa(@makhoa char(6), @tenKhoa nvarchar(30))
-as 
-	begin
-		update KHOA set TENKHOA = @tenKhoa where MAKHOA = @makhoa
-	end
-go
---Lấy 
-create procedure sp_layKhoa(@maKhoa char(6))
-as
-	begin
-		select * from KHOA where MAKHOA = @maKhoa
-	end
-go
-
---/ Bảng SinhVien /--
---Thêm
-create procedure sp_themSV(
-@maSV char(6), 
-@hoSV nvarchar(30),
-@tenSV nvarchar(15),
-@gioiTinh char(3),
-@ngaySinh date,
-@noiSinh nvarchar(50),
-@diaChi nvarchar(50),
-@maKhoa char(6),
-@hocBong int)
-as 
-	begin
-		insert into SINHVIEN(MASV, HOSV, TENSV, GIOITINH, NGAYSINH, NOISINH, DIACHI, MAKHOA,HOCBONG)
-		values (@maSV, @hoSV,@tenSV ,@gioiTinh ,@ngaySinh ,@noiSinh ,@diaChi ,@maKhoa ,@hocBong)
-	end
-go
---Xóa
-create procedure sp_xoaSV(@maSV char(6))
-as 
-	begin
-		delete from SINHVIEN where MASV = @maSV;
-	end
-go
---Sửa
-create procedure sp_suaSV(
-@maSV char(6), 
-@hoSV nvarchar(30),
-@tenSV nvarchar(15),
-@gioiTinh char(3),
-@ngaySinh date,
-@noiSinh nvarchar(50),
-@diaChi nvarchar(50),
-@maKhoa char(6),
-@hocBong int)
-as
-	begin
-		update SINHVIEN set HOSV = @hoSV, TENSV = @tenSV ,GIOITINH = @gioiTinh ,NGAYSINH  = @ngaySinh ,NOISINH = @noiSinh ,DIACHI = @diaChi ,MAKHOA = @maKhoa ,HOCBONG = @hocBong where MASV = @maSV;
-	end
-go
---Lấy
-create procedure sp_laySV (@maSV char(6))
-as
-	begin
-		select * from SINHVIEN where MASV = @maSV;
-	end
-go
-
---/ Bảng MonHoc /--
---Thêm
-create procedure sp_themMH(@maMH char(6), @tenMH nvarchar(30) , @soTiet int)
-as
-	begin
-		insert into MONHOC (MAMH, TENMH, SOTIET) values (@maMH, @tenMH, @soTiet);
-	end
-go
---Xóa
-create procedure sp_xoaMH(@maMH char(6))
-as 
-	begin
-		delete from MONHOC where MAMH = @maMH;
-	end
-go
---Sửa
-create procedure sp_suaMH(@maMH char(6), @tenMH nvarchar(30) , @soTiet int)
-as
-	begin
-		update MONHOC set TENMH = @tenMH, SOTIET = @soTiet where MAMH = @maMH;
-	end
-go
---Lấy
-create procedure sp_layMH (@maMH char(6))
-as
-	begin
-		select * from MONHOC where MAMH = @maMH;
-	end
-go
-
-
---/ Bảng KetQua /--
---Thêm
-create proc sp_themKetQua(@maSV char(6), @maMH char(6), @diemThi int)
-as
-	insert into KETQUA(MASV, MAMH, DIEMTHI) values (@maSV, @maMH, @diemThi)
-go
---Xóa
-create proc sp_xoaKetQua(@maSV char(6), @maMH char(6))
+create procedure sp_ThemKhoa(@maKhoa char(6), @tenKhoa nvarchar(30))
 as
 	begin 
-		delete from KETQUA where MASV = @maSV and MAMH = @maMH
+		insert into KHOA (MAKHOA, TENKHOA) values (@maKhoa, @tenKhoa)
+	end
+go
+--Xóa 
+create procedure sp_XoaKhoa(@maKhoa char(6))
+as
+	begin 
+		delete from KHOA where MAKHOA = @maKhoa
 	end
 go
 --Sửa
-create proc sp_suaKetQua(@maSV char(6), @maMH char(6), @diemThi int)
+create procedure sp_SuaKhoa(@maKhoa char(6), @tenKhoa nvarchar(30))
 as
-	begin
-		update KETQUA set DIEMTHI = @diemThi where MASV = @maSV and MAMH = @maMH
+	begin 
+		update KHOA set  TENKHOA = @tenKhoa where MAKHOA = @maKhoa
 	end
 go
---Lấy
-create proc sp_layKetQua(@maSV char(6), @maMH char(6))
+
+
+--/Bảng SinhVien/--
+--Thêm
+create procedure sp_ThemSinhVien(
+@maSV char(6),
+@ho nvarchar(30),
+@ten nvarchar(15),
+@gt char(3),
+@ngaySinh date,
+@noiSinh nvarchar(50),
+@diaChi nvarchar(50),
+@maKhoa char(6),
+@hocBong int)
 as
-	begin
-		select * from KETQUA where MASV = @maSV and MAMH = @maMH
-	end 
+	begin 
+		insert into SINHVIEN(MASV, HOSV, TENSV, GIOITINH, NGAYSINH, NOISINH, DIACHI, MAKHOA,HOCBONG)
+		values (@maSV,@ho ,@ten ,@gt ,@ngaySinh ,@noiSinh,@diaChi,@maKhoa ,@hocBong)
+	end
+go
+--Xóa
+create procedure sp_XoaSinhVien(@maSV char(6))
+as
+	begin 
+		delete from SINHVIEN where MASV = @maSV
+	end
+go
+--Sửa
+create procedure sp_SuaSinhVien(
+@maSV char(6),
+@ho nvarchar(30),
+@ten nvarchar(15),
+@gt char(3),
+@ngaySinh date,
+@noiSinh nvarchar(50),
+@diaChi nvarchar(50),
+@maKhoa char(6),
+@hocBong int)
+as
+	begin 
+		 update SINHVIEN set HOSV = @ho ,TENSV = @ten ,GIOITINH = @gt ,NGAYSINH = @ngaySinh ,NOISINH = @noiSinh,DIACHI = @diaChi,MAKHOA = @maKhoa ,HOCBONG = @hocBong
+		 where MASV = @maSV
+	end
 go
